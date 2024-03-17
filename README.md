@@ -15,7 +15,7 @@ My progress in the [**The C# Academy**](https://www.thecsharpacademy.com) course
 
 ### Beginner
 
-- [ ] Free Code Camp C# Certification
+- [ ] [Free Code Camp C# Certification](https://github.com/AdriaticEmir/Foundational-C-with-Microsoft)
 - [ ] Math Game
 - [ ] Calculator
 - [ ] Habit Logger
