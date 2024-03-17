@@ -4,12 +4,12 @@
 
 My progress in the [**The C# Academy**](https://www.thecsharpacademy.com) course.
 
-## Foundations
+## Foundations :heavy_check_mark:
 
-- [ ] Start Here
-- [ ] Getting Help
-- [ ] Setting Up
-- [ ] C# Foundations
+- [x] Start Here
+- [x] Getting Help
+- [x] Setting Up
+- [x] C# Foundations
 
 ## Console
 
